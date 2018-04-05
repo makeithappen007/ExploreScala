@@ -1,1 +1,3 @@
 # ExploreScala
+
+Scala is fun :) 
